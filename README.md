@@ -18,3 +18,6 @@ The objective of this project is to analyze road accident data to identify key f
 
 ## Author
 **Annu Yadav**
+
+## Screenshot
+<img width="1251" height="627" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/53eb4c7c-8f2b-4146-a9ab-c3d92dc4be2a" />
